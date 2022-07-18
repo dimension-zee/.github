@@ -1,4 +1,4 @@
-## Dimension Z ✴️
+## Pleroma ✴️
 
 Is a pocket dimension where code runs!
 
